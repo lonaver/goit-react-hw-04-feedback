@@ -1,0 +1,9 @@
+.wrap_stat {
+  text-align: left;
+  color: rgba(0, 0, 0, 0.6);
+}
+.textStat {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: calc(30 / 18);
+}
